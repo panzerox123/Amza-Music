@@ -1,0 +1,4 @@
+#Mon Oct 01 16:45:53 IST 2018
+base.0=/home/kunal/Desktop/Flutter_Pro/amza_music/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

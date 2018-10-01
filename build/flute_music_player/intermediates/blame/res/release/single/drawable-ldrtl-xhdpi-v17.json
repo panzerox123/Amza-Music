@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kunal/Desktop/Flutter_Pro/amza_music/build/flute_music_player/intermediates/res/merged/release/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/kunal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c9f1e4d0c59021f3259fc09f06cf193b/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/kunal/Desktop/Flutter_Pro/amza_music/build/flute_music_player/intermediates/res/merged/release/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/kunal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c9f1e4d0c59021f3259fc09f06cf193b/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/kunal/Desktop/Flutter_Pro/amza_music/build/flute_music_player/intermediates/res/merged/release/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/kunal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c9f1e4d0c59021f3259fc09f06cf193b/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

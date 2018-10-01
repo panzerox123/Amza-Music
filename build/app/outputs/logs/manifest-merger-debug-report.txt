@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from [:audioplayer2] /home/kunal/Desktop/Flutter_Pro/amza_music/build/audioplayer2/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:flute_music_player] /home/kunal/Desktop/Flutter_Pro/amza_music/build/flute_music_player/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c9f1e4d0c59021f3259fc09f06cf193b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/7039834e3b684f07ba0fd5821f8272a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/02c96f8d8af8229e1692d26ba003e767/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/9455d593b34c56b5ebc336593b21cd4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/142062614eec70d97ce5807eea43e597/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/5da6fe22e99314504cfec4876999e544/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/5037111c5ddcef89c18bf1bb6faa4344/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a9de9377fd55baac8af055da9a86ce3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/6d892fdabc7dfde8b97bffb39d1ad27e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/99241c0a18635acadc518baac582324e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d9caba191c2936b3a47513ff3d7f99c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e9cbb8e46cf57110f1ddced663221f55/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0745b1ece9050348032a2aadabe1426c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:16:5-39:19
+	android:label
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:17:9-57
+activity#com.example.amzamusic.MainActivity
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:20:9-38:20
+	android:launchMode
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:24:13-137
+	android:theme
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:21:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:31:13-33:40
+	android:value
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:33:17-37
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:32:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+MERGED from [:audioplayer2] /home/kunal/Desktop/Flutter_Pro/amza_music/build/audioplayer2/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayer2] /home/kunal/Desktop/Flutter_Pro/amza_music/build/audioplayer2/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:flute_music_player] /home/kunal/Desktop/Flutter_Pro/amza_music/build/flute_music_player/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flute_music_player] /home/kunal/Desktop/Flutter_Pro/amza_music/build/flute_music_player/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c9f1e4d0c59021f3259fc09f06cf193b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c9f1e4d0c59021f3259fc09f06cf193b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/7039834e3b684f07ba0fd5821f8272a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/7039834e3b684f07ba0fd5821f8272a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/02c96f8d8af8229e1692d26ba003e767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/02c96f8d8af8229e1692d26ba003e767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/9455d593b34c56b5ebc336593b21cd4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/9455d593b34c56b5ebc336593b21cd4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/142062614eec70d97ce5807eea43e597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/142062614eec70d97ce5807eea43e597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/5da6fe22e99314504cfec4876999e544/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/5da6fe22e99314504cfec4876999e544/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/5037111c5ddcef89c18bf1bb6faa4344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/5037111c5ddcef89c18bf1bb6faa4344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a9de9377fd55baac8af055da9a86ce3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a9de9377fd55baac8af055da9a86ce3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/6d892fdabc7dfde8b97bffb39d1ad27e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/6d892fdabc7dfde8b97bffb39d1ad27e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/99241c0a18635acadc518baac582324e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/99241c0a18635acadc518baac582324e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d9caba191c2936b3a47513ff3d7f99c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d9caba191c2936b3a47513ff3d7f99c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e9cbb8e46cf57110f1ddced663221f55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e9cbb8e46cf57110f1ddced663221f55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0745b1ece9050348032a2aadabe1426c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/kunal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0745b1ece9050348032a2aadabe1426c/AndroidManifest.xml:20:5-44
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kunal/Desktop/Flutter_Pro/amza_music/android/app/src/main/AndroidManifest.xml
